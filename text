@@ -1,0 +1,8 @@
+This is a simple walkthrough on how to use git.
+- A folder is created on desktop and open via git bash
+- the folder is initialized using the "git init" command 
+- files are then created inside the folder by running the command "touch file-name"
+- Use visual code studio or any other editor and open the folder
+- include contents in the files 
+- add all files to staging area via this command "git add . "
+- commit the changes by " git commit -m 'Initial commit'
